@@ -13,7 +13,7 @@ I explore software development, security, and game dev on Roblox. Feel free to r
 <p align="left">
   <a href="mailto:atolenatsu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
   <a href="https://github.com/tompotio"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
-  <a href="https://www.roblox.com/users/profile?username=tompotio"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" height="40" alt="Roblox" /></a>
+  <a href="https://www.roblox.com/users/profile?username=tompotio4"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" height="40" alt="Roblox" /></a>
 </p>
 
 ---
