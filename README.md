@@ -6,7 +6,7 @@
 
 ---
 
-### 💬 About & Contact
+### About & Contact
 
 I explore software development, security, and game dev on Roblox. Feel free to reach out!
 
@@ -18,7 +18,7 @@ I explore software development, security, and game dev on Roblox. Feel free to r
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,python,lua,js,ts,html,css" alt="Tech Stack Icons" />
@@ -27,7 +27,7 @@ I explore software development, security, and game dev on Roblox. Feel free to r
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### GitHub Stats
 
 <div align="center">
   <!-- GitHub Stats -->
@@ -57,7 +57,7 @@ I explore software development, security, and game dev on Roblox. Feel free to r
 
 ---
 
-### 📌 Featured Repository
+### Featured Repository
 
 <p align="center">
   <em>A small Static Application Security Testing (SAST) project designed to learn software security concepts.</em>
@@ -77,15 +77,3 @@ I explore software development, security, and game dev on Roblox. Feel free to r
     </picture>
   </a>
 </div>
-
----
-
-### 🐍 Contribution Snake Animation
-
-<p align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/tompotio/tompotio/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: dark)">
-    <source srcset="https://raw.githubusercontent.com/tompotio/tompotio/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)">
-    <img src="https://raw.githubusercontent.com/tompotio/tompotio/output/github-contribution-grid-snake.svg" alt="github contribution snake animation">
-  </picture>
-</p>
