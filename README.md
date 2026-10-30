@@ -59,19 +59,15 @@ I explore software development, security, and game dev on Roblox. Feel free to r
 
 ### Featured Repository
 
-<p align="center">
-  <em>A small Static Application Security Testing (SAST) project designed to learn software security concepts.</em>
-</p>
-
 <div align="center">
   <a href="https://github.com/tompotio/SASToy">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=tompotio&repo=SASToy&theme=tokyonight"
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=tompotio&repo=SASToy&description=A%20small%20Static%20Application%20Security%20Testing%20(SAST)%20project%20designed%20to%20learn%20software%20security%20concepts.&theme=tokyonight"
         media="(prefers-color-scheme: dark)"
       />
       <img
-        src="https://github-stats-extended.vercel.app/api/pin/?username=tompotio&repo=SASToy&theme=default"
+        src="https://github-stats-extended.vercel.app/api/pin/?username=tompotio&repo=SASToy&description=A%20small%20Static%20Application%20Security%20Testing%20(SAST)%20project%20designed%20to%20learn%20software%20security%20concepts.&theme=default"
         alt="SASToy repository card"
       />
     </picture>
