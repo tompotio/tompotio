@@ -1,20 +1,21 @@
-<h1 align="center">Hi there 👋, I'm Tompotio!</h1>
+<h1 align="center">Hi 👋, I'm Tompotio</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;Passionate+about+Security+%F0%9F%94%92;Building+cool+open-source+tools+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Passionate+about+Computers & Technology +%F0%9F%94%92;Building+open-source+things+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🌱 I’m currently exploring advanced software development and security.
-- ⚡ Fun fact: I built **SASToy**!
-- 📫 How to reach me: *Add your LinkedIn, Twitter, or website here!*
-
+- I’m currently exploring advanced software development and security.
+- How to reach me? 
+* **GitHub:** [@tompotio](https://github.com/tompotio)
+* **Email:** [olenatsu@gmail.com](mailto:olenatsu@gmail.com)
+* **LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,python,js,ts,html,css" alt="Tech Stack Icons" />
@@ -22,7 +23,7 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### GitHub Stats & Metrics
 
 <div align="center">
   <!-- GitHub Stats -->
@@ -52,7 +53,7 @@
 
 ---
 
-### 📌 Featured Repository
+### Featured Repository
 
 <div align="center">
   <a href="https://github.com/tompotio/SASToy">
@@ -71,7 +72,7 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
+### Contribution Snake Animation
 
 <p align="center">
   <picture>
