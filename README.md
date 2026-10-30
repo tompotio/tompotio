@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tompotio</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Passionate+about+Computers & Technology +%F0%9F%94%92;Building+open-source+things+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Passionate+about+Tech+%26+Security+%F0%9F%94%92;Building+open-source+things+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,15 +18,16 @@ I explore software development, security, and game dev on Roblox. Feel free to r
 
 ---
 
-### Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,python,js,ts,html,css" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,python,lua,js,ts,html,css" alt="Tech Stack Icons" />
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" height="48" style="vertical-align: middle; margin-left: 6px;" />
 </p>
 
 ---
 
-### GitHub Stats & Metrics
+### 📊 GitHub Stats & Metrics
 
 <div align="center">
   <!-- GitHub Stats -->
@@ -56,7 +57,11 @@ I explore software development, security, and game dev on Roblox. Feel free to r
 
 ---
 
-### Featured Repository
+### 📌 Featured Repository
+
+<p align="center">
+  <em>A small Static Application Security Testing (SAST) project designed to learn software security concepts.</em>
+</p>
 
 <div align="center">
   <a href="https://github.com/tompotio/SASToy">
@@ -75,7 +80,7 @@ I explore software development, security, and game dev on Roblox. Feel free to r
 
 ---
 
-### Contribution Snake Animation
+### 🐍 Contribution Snake Animation
 
 <p align="center">
   <picture>
