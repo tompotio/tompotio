@@ -57,7 +57,7 @@ I explore software development, security, and game dev on Roblox. Feel free to r
 
 ---
 
-### Featured Repository
+### Featured Repository 
 
 <div align="center">
   <a href="https://github.com/tompotio/SASToy">
@@ -68,14 +68,14 @@ I explore software development, security, and game dev on Roblox. Feel free to r
       />
       <img
         src="https://github-stats-extended.vercel.app/api/pin/?username=tompotio&repo=SASToy&theme=default"
-        alt="SASToy repository card"
+        alt="SASToy"
       />
     </picture>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/tompotio/SASToy">
+  <a href="https://github.com/tompotio/Projet_Logique">
     <picture>
       <source
         srcset="https://github-stats-extended.vercel.app/api/pin/?username=tompotio&repo=Projet_Logique&theme=tokyonight"
@@ -91,7 +91,7 @@ I explore software development, security, and game dev on Roblox. Feel free to r
 
 
 <div align="center">
-  <a href="https://github.com/tompotio/SASToy">
+  <a href="https://github.com/tompotio/Tower-Defense">
     <picture>
       <source
         srcset="https://github-stats-extended.vercel.app/api/pin/?username=tompotio&repo=Tower-Defense&theme=tokyonight"
