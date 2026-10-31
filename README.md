@@ -73,3 +73,33 @@ I explore software development, security, and game dev on Roblox. Feel free to r
     </picture>
   </a>
 </div>
+
+<div align="center">
+  <a href="https://github.com/tompotio/SASToy">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=tompotio&repo=Projet_Logique&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        src="https://github-stats-extended.vercel.app/api/pin/?username=tompotio&repo=Projet_Logique&theme=default"
+        alt="Projet_Logique"
+      />
+    </picture>
+  </a>
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/tompotio/SASToy">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=tompotio&repo=Tower-Defense&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        src="https://github-stats-extended.vercel.app/api/pin/?username=tompotio&repo=Tower-Defense&theme=default"
+        alt="Tower-Defense"
+      />
+    </picture>
+  </a>
