@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%92%BB;Passionate+about+Tech+%26+Security+%F0%9F%94%92;Building+open-source+things+%E2%9A%A1" alt="Typing SVG" />
+  <img src=
+    "
+      https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=
+        Software+Engineer;
+        Passionate+about+Tech+%26+Security;
+        Building+open-source+things
+    " 
+    alt="Typing SVG" />
 </p>
 
 ---
