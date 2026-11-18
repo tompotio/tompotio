@@ -19,7 +19,7 @@ I explore software development, security, and game dev on Roblox. Feel free to r
 ### Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,python,lua,js,ts,html,css" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,python,lua,js,html,css" alt="Tech Stack Icons" />
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" height="48" style="vertical-align: middle; margin-left: 6px;" />
 </p>
 
